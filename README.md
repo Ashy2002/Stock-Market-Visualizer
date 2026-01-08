@@ -10,9 +10,9 @@ A desktop application that allows users to search stock symbols and visualize hi
 - Environment-based configuration
 
 ## Features
-- Search stock symbols
-- View historical closing prices
-- Selectable time ranges
+- Search stock symbols and retrieve historical price data
+- View Open, High, Low, and Close prices
+- Selectable time ranges (1week to 5 years)
 - Interactive line chart visualization
 - Graceful handling of API errors and rate limits
 
